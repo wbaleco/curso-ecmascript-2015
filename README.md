@@ -1,6 +1,6 @@
 # Curso de ECMAScript 2015
 
-## Como executar os execícios
+## Como executar os exercícios
 
 > Todos os exemplos foram executados usando o [**NodeJS 6.2.0**](https://nodejs.org)
 
